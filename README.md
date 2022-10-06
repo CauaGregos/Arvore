@@ -1,4 +1,6 @@
 ## Getting Started
+Projeto feito em java, para a matéria de Estrutura de Dados, aqui aprendemos os conceitos de árvore, desde como montar até seus principais métodos.
+
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
